@@ -11,7 +11,7 @@ Solutions to [Stanford CS231n Spring 2019 Course](http://cs231n.stanford.edu/201
 
 
 
-If there are any mistakes, or you have questions about solutions, please contact me via github.  My e-mail is [firstname][lastname]@gmail.com (my name is Nathan Bendich).  I apologize if I do not immediately get to you.  I would love to give an in-depth walkthrough of every detail to every person who contacts me, but unfortunately time probably will not permit that.
+If there are any mistakes, or you have questions about solutions, please contact me via github or e-mail.  My e-mail is [firstname][lastname]@gmail.com (my name is Nathan Bendich).  I apologize if I do not immediately get to you.  I would love to give an in-depth walkthrough of every detail to every person who contacts me, but unfortunately time probably will not permit that.
 
 
 ## A few resources I found helpful:
