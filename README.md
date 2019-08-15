@@ -13,6 +13,11 @@ If there are any mistakes, or you have questions about solutions, please contact
   5. Taking partial derivatives (called "Gradients" but more technically should be called "Jacobians") by hand: http://cs231n.stanford.edu/vecDerivs.pdf
   6. Softmax & 2-layer NN derivation by Karpathy:  http://cs231n.github.io/neural-networks-case-study/
 
+### Things I wish I'd known when starting the lectures:
+As far as I can tell, Xavier initialization is not so necessary any more.  Batch/Group/Instance/Layer normalization fixes the old problems Hinton et al. had with properly initializing neural networks.  Dropout still seems very relevant.  Nowadays skip connections in ResNet, ResNeXT, etc. make the early lecture content about regularization less relevant/totally outdated
+
+
+
 ### Brief Summaries (I apologize if these are more geared towards my personal commercial and research interests):
 ##### Also, I wrote these right after taking cs231n; obviously a more experienced engineer/academic like Geoffrey Hinton or Andrej Karpathy will have a better perspective on what's important, etc.
   0.  Like a baby's brain, a neural network learns from "experience" (Training Data for a Neural network; Days of life and events for a baby human).  A person may see 10 dogs, misidentify 5 cats, zebras, horses, etc. as dogs, and develop an abstract idea of what it means for a thing to be a "dog."  A neural network learns these ideas in big groups of numbers ("weights," more technically), but I find the analogy of deep learning to human learning helpful, and you may too.
